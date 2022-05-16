@@ -1,0 +1,32 @@
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#hover:hover{
+  background-color: rgba(165, 163, 159, 0.404);
+  cursor: pointer; 
+}
+
+#hover{
+  text-decoration: none;
+}
+
+#wait{
+  background-color: rgba(17, 0, 255, 0.048);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#cards{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#card{
+  margin-top: 40px;
+}
