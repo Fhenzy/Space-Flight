@@ -2,7 +2,6 @@
 
 ### Baixe o codigo do repositório, abra o cmd na pasta e execute NPM install, para instalar as depêndencias do projeto.
 ### Usei as tecnologias: HTML, CSS, JAVASCRIPT, MATERIAL-UI, REACT, REACT-ROUTER-DOM.
-### Link do video explicativo: https://youtu.be/KNvKxQOxhsM
 
 ## Available Scripts
 
